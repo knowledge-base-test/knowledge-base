@@ -4,3 +4,8 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Локальные настройки интерфейса Obsidian
+.obsidian/core-plugins.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
