@@ -11,7 +11,7 @@
 
 Возбудимость определяется взаимодействием нескольких факторов:
 
-- [[Resting membrane potential|потенциалом покоя]];
+- [[Biology/Мембрана/Resting membrane potential|потенциалом покоя]];
 - пороговым потенциалом;
 - [[Electrochemical gradient|электрохимическими градиентами]] ионов;
 - проницаемостью мембраны;
@@ -82,7 +82,7 @@
 
 ## Связанные темы
 
-- [[Resting membrane potential]]
+- [[Biology/Мембрана/Resting membrane potential]]
 - [[Electrochemical gradient]]
 - [[Hyperkalemia]]
 - [[Calcium homeostasis]]
